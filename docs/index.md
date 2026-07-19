@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the Gravity Falls Wiki.
+Welcome to the Gravity Falls Wiki!
 
 Use the sections below to browse the wiki:
 
