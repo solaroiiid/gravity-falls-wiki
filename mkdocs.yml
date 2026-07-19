@@ -1,0 +1,35 @@
+site_name: Gravity Falls Wiki
+site_description: A fan-made wiki for Gravity Falls.
+site_author: solaroid
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+docs_dir: docs
+site_dir: site
+strict: false
+
+nav:
+  - Home: index.md
+  - Characters: characters/index.md
+  - Organizations: organizations/index.md
+  - Seasons: seasons/index.md
+  - Chapters: chapters/index.md
+  - Privacy Policy: privacy.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
