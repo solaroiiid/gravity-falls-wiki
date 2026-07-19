@@ -1,4 +1,4 @@
-# Home
+# Gravity Falls Wiki
 
 Welcome to the Gravity Falls Wiki!
 
