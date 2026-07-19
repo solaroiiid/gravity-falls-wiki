@@ -21,7 +21,7 @@ SECTIONS = {
         "list_title": "Season List",
     },
     "Episodes": {
-        "title": "Chapters",
+        "title": "Episodes",
         "intro": "This section organizes Gravity Falls by episodes.",
         "list_title": "Episodes List",
     },
@@ -117,7 +117,7 @@ def generate_wiki_json_index():
             )
 
     output = {
-        "site": "True Education Manhwa Wiki",
+        "site": "Gravity Falls Wiki",
         "page_count": len(items),
         "pages": items,
     }
